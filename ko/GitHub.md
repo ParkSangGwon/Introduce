@@ -10,6 +10,7 @@ https://github.com/ParkSangGwon
 https://github.com/ParkSangGwon/TedPermission
 - Easy check permission library for Android Marshmallow
 - ![](https://img.shields.io/github/stars/ParkSangGwon/TedPermission.svg?style=social&cacheSeconds=3600)
+<img src="../art/github/tedpermission/1504701614889.png" width="800">
 
 ### TedBottomPicker
 https://github.com/ParkSangGwon/TedBottomPicker
