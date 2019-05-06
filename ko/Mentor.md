@@ -18,6 +18,6 @@ SW개발 전문가로서의 역량을 강화할 수 있는 집중 실무 프로�
 퍼실리테이터: 전체 행사 기획 및 사회, 멘토링
 - 2016.12 ~ 2017.08
 - [프로젝트 영상](https://www.youtube.com/watch?v=PUnJHa1_9Zo)
-- 참여단체: 서울대, LG전자, 스타트업캠퍼스
+- 참여단체: 서울대, LG전자, 스타트업캠퍼스
 - [Project Course](https://gstartupcampus.or.kr/kwa-419658-1)
 - ['LG전자, 장애인용 모바일 앱 개발 '따뜻한 기술 나눔'](http://www.fnnews.com/news/201704171951025142)
