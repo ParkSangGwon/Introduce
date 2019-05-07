@@ -5,7 +5,7 @@
 ---
 [박상권](https://github.com/parkSangGwon)
 - 소속: [피알앤디컴퍼니](https://prnd.co.kr/)
-- 함께한 일: 피알앤디컴퍼니에서 함께 근무함
+- 함께한 일: 피알앤디컴퍼니에서 함께 근무함 / [Droid Knights](https://github.com/ParkSangGwon/Introduce/blob/master/ko/Organizer.md#9-droidknights-2019) 행사를 함께 준비함 / [부스트캠프](https://github.com/ParkSangGwon/Introduce/blob/master/ko/Organizer.md#9-droidknights-2019) 프로그램에 함께 멘토로 참여함 등
 - 추천사
 1. 내용1
 2. 내용2
