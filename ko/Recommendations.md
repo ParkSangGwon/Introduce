@@ -14,7 +14,7 @@
 
 ---
 [정성민](https://github.com/JSpiner)
-- 소속: [피알앤디컴퍼니](https://prnd.co.kr/)
+- 소속: [리디주식회사](https://ridicorp.co.kr/)
 - 함께한 일: 피알앤디컴퍼니에서 함께 약 9개월간 함께 근무함
 - 추천사
 
