@@ -6,6 +6,10 @@
 ### [경력](/ko/Career.md)
 - 2010년부터 인턴으로 시작해 현재까지 회사경력에 대해 기술
 
+### [추천사](/ko/Recommendations.md)
+- 이전 직장 동료들의 추천사
+- 함께 프로젝트를 진행했던 멤버들의 추천사
+
 ### [발표](/ko/Presentation.md)
 - 여러 행사에 발표자로 참여이력
 - 행사 정보, 사진/영상
@@ -35,10 +39,6 @@
 - 창업 수상이력
 
 <img src="/art/prize/201603/201603.jpg" width="280"> <img src="/art/prize/201511/201511.jpg" width="280"> <img src="/art/prize/201508/201508.jpg" width="280"> <img src="/art/prize/201503/FB_IMG_1438868043923.jpg" width="280"> <img src="/art/prize/201411/20141120_182006.jpg" width="280">
-
-### [추천사](/ko/Recommendations.md)
-- 이전 직장 동료들의 추천사
-- 함께 프로젝트를 진행했던 멤버들의 추천사
 
 ### [링크](/ko/Link.md)
 - 블로그, 페이스북 등 각종 SNS 주소
