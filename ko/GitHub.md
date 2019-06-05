@@ -3,7 +3,7 @@ https://github.com/ParkSangGwon
 
 ## 순위
 - [대한민국 Java 개발자 2위](http://git-awards.com/users?country=south+korea&language=java)
-- [대한민국 Kotlin 개발자 11위](http://git-awards.com/users?country=south+korea&language=kotlin)
+- [대한민국 Kotlin 개발자 6위](http://git-awards.com/users?country=south+korea&language=kotlin)
 
 ## Repository
 ### TedPermission
@@ -12,10 +12,20 @@ https://github.com/ParkSangGwon/TedPermission
 - ![](https://img.shields.io/github/stars/ParkSangGwon/TedPermission.svg?style=social&cacheSeconds=3600)
 <img src="../art/github/tedpermission/1504701614889.png" width="800">
 
+
+### TedImagePicker
+https://github.com/ParkSangGwon/TedImagePicker
+- TedImagePicker is simple/beautiful/smart image picker
+- ![](https://img.shields.io/github/stars/ParkSangGwon/TedImagePicker.svg?style=social&cacheSeconds=3600)
+
+<img src="https://github.com/ParkSangGwon/TedImagePicker/raw/master/art/multi_select.gif" width="200"> .  <img src="https://github.com/ParkSangGwon/TedImagePicker/raw/master/art/album.gif" width="200">
+
 ### TedBottomPicker
 https://github.com/ParkSangGwon/TedBottomPicker
 - TedBottomPicker is simple image picker using bottom sheet
 - ![](https://img.shields.io/github/stars/ParkSangGwon/TedBottomPicker.svg?style=social&cacheSeconds=3600)
+
+<img src="https://github.com/ParkSangGwon/TedBottomPicker/blob/master/screenshot1.jpeg" width="200"> .  <img src="https://github.com/ParkSangGwon/TedBottomPicker/blob/master/screenshot_multi_select.jpeg" width="200">
 
 ### TedKeyboardObserver
 https://github.com/ParkSangGwon/TedKeyboardObserver
