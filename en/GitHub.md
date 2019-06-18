@@ -3,7 +3,7 @@ https://github.com/ParkSangGwon
 
 ## Rank
 - [Korea Java Developer Rank 2](http://git-awards.com/users?country=south+korea&language=java)
-- [Korea Kotlin Developer Rank 11](http://git-awards.com/users?country=south+korea&language=kotlin)
+- [Korea Kotlin Developer Rank 5](http://git-awards.com/users?country=south+korea&language=kotlin)
 
 ## TedPermission
 https://github.com/ParkSangGwon/TedPermission
