@@ -12,7 +12,7 @@
 ### [선의의경쟁](https://www.fnnews.com/news/201512021809123685)
 - 2014.06 ~ 2017.05 (3년)
 - [셀폰](https://www.rocketpunch.com/companies/selphone) 서비스
-- Co-Founder / 안드로이드 개발팀
+- Co-Founder / CTO
 
 ### [대신증권](https://www.daishin.com)
 - 2011.11 ~ 2014.04 (2년 6개월)
