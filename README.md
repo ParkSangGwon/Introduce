@@ -33,7 +33,7 @@
 
 <img src="/art/mentor/educom/IMG_20170228_150331_779.jpg" width="280"> <img src="/art/mentor/educom/educom_3.jpg" width="280"> <img src="/art/mentor/educom/educom_1.jpg" width="280">
 
-## [행사 기획](/ko/Organizer.md)
+## 행사 기획
 [자세히 보기](/ko/Organizer.md)
 - 개발자 행사, 마케터 행사 등 여러 행사를 직접 기획하고 참여이력
 - 행사 정보, 사진/영상
