@@ -38,7 +38,7 @@
 - 개발자 행사, 마케터 행사 등 여러 행사를 직접 기획하고 참여이력
 - 행사 정보, 사진/영상
 
-<img src="/art/organizer/20190405/134A2254.JPG" width="280"> <img src="/art/organizer/20181125/20181125_130505.jpg" width="280"> <img src="/art/organizer/20181003/43204931_1902960049785516_6874837069898711040_n.jpg" width="280"> <img src="/art/organizer/20180729/20180729_3.jpg" width="280"> <img src="/art/organizer/20170923/20170923_134256.jpg" width="280"> <img src="/art/organizer/20170812/1502516278921.jpg" width="280">
+<img src="/art/organizer/20190405/134A2254.JPG" width="280"><img src="/art/organizer/20190804/KakaoTalk_Photo_2019-08-07-02-00-54.jpeg" width="280"> <img src="/art/organizer/20181125/20181125_130505.jpg" width="280"> <img src="/art/organizer/20181003/43204931_1902960049785516_6874837069898711040_n.jpg" width="280"> <img src="/art/organizer/20180729/20180729_3.jpg" width="280"> <img src="/art/organizer/20170923/20170923_134256.jpg" width="280"> <img src="/art/organizer/20170812/1502516278921.jpg" width="280">
 
 ## 수상
 [자세히 보기](/ko/Prize.md)
