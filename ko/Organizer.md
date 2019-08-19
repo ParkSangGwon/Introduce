@@ -5,7 +5,8 @@ https://event-us.kr/ted/event/8421
 - 일시: 2019.08.04
 - 장소: 마루180
 - 참가인원: 150명
-<img src="../art/organizer/20190804/KakaoTalk_Photo_2019-08-07-02-00-54.jpeg" width="280"><img src="../art/organizer/20190804/KakaoTalk_Photo_2019-08-07-02-00-59.jpeg" width="280"><img src="../art/organizer/20190804/KakaoTalk_Photo_2019-08-07-02-01-01.jpeg" width="280"><img src="../art/organizer/20190804/KakaoTalk_Photo_2019-08-07-02-01-06.jpeg" width="280"><img src="../art/organizer/20190804/KakaoTalk_Photo_2019-08-07-02-01-09.jpeg" width="280"><img src="../art/organizer/20190804/KakaoTalk_Photo_2019-08-07-02-01-12.jpeg" width="280">
+
+<img src="../art/organizer/20190804/KakaoTalk_Photo_2019-08-07-02-00-54.jpeg" width="280"><img src="../art/organizer/20190804/KakaoTalk_Photo_2019-08-07-02-01-01.jpeg" width="280"><img src="../art/organizer/20190804/KakaoTalk_Photo_2019-08-07-02-01-09.jpeg" width="280"><img src="../art/organizer/20190804/KakaoTalk_Photo_2019-08-07-02-00-59.jpeg" width="280"><img src="../art/organizer/20190804/KakaoTalk_Photo_2019-08-07-02-01-12.jpeg" width="280">
 
 ### 9. DroidKnights 2019
 https://droidknights.github.io/2019/
