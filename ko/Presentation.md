@@ -1,5 +1,11 @@
 # 발표
 
+### 15. 
+- 2019.08.04
+- [[안드로이드 컨퍼런스]우리 회사는 이렇게 개발해요](https://event-us.kr/ted/event/8421)
+- [발표자료](https://speakerdeck.com/gun0912/heidilreoeseoneun-eoddeohge-ilhanayo-222-190804-andeuroideu-keonpeoreonseu-uri-hoesaneun-ireohge-gaebalhaeyo)
+
+<img src="../art/presentation/20190804/IMG_4853.JPG" width="280"><img src="../art/presentation/20190804/IMG_4856.JPG" width="280"><img src="../art/presentation/20190804/IMG_4865.JPG" width="280">
 
 ### 14. Kotlin, 꼭 해야하나요?
 - 2019.04.05
