@@ -1,6 +1,13 @@
 # 발표
 
-### 15. 
+### 16.렛츠git잇
+- 2019.09.07
+- [[개발자 컨퍼런스]슬기로운 개발생활](https://event-us.kr/ted/event/9635)
+- [발표자료](https://docs.google.com/presentation/d/e/2PACX-1vQa3ZjVnu6TmXWdbL9pFeO7xdJS6VPYzisjPdxio-dHVKrkJea--cbr0WWOYYPJiLFItSMBYgbq3H7Q/pub?start=false&loop=false&delayms=3000)
+
+<img src="../art/presentation/20190907/P9070478.JPG" width="280"><img src="../art/presentation/20190907/P9070501.JPG" width="280"><img src="../art/presentation/20190907/P9070502.JPG" width="280"><img src="../art/presentation/20190907/P9070513.JPG" width="280"><img src="../art/presentation/20190907/P9070548.JPG" width="280">
+
+### 15. 헤이딜러에서는 어떻게 일하나요?222
 - 2019.08.04
 - [[안드로이드 컨퍼런스]우리 회사는 이렇게 개발해요](https://event-us.kr/ted/event/8421)
 - [발표자료](https://speakerdeck.com/gun0912/heidilreoeseoneun-eoddeohge-ilhanayo-222-190804-andeuroideu-keonpeoreonseu-uri-hoesaneun-ireohge-gaebalhaeyo)

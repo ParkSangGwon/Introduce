@@ -1,5 +1,14 @@
 # 행사 기획
 
+
+### 11. [개발자 컨퍼런스]슬기로운 개발생활
+https://event-us.kr/ted/event/9635
+- 일시: 2019.09.07
+- 장소: 마루180
+- 참가인원: 120명
+
+<img src="../art/organizer/20190907/KakaoTalk_Photo_2019-09-10-19-34-09.jpeg" width="280"><img src="../art/organizer/20190907/KakaoTalk_Photo_2019-09-10-19-34-13.jpeg" width="280"><img src="../art/organizer/20190907/KakaoTalk_Photo_2019-09-10-19-34-15.jpeg" width="280"><img src="../art/organizer/20190907/KakaoTalk_Photo_2019-09-10-19-34-05.jpeg" width="280"><img src="../art/organizer/20190907/KakaoTalk_Photo_2019-09-10-19-34-43.jpeg" width="280"><img src="../art/organizer/20190907/P9070557.JPG" width="280">
+
 ### 10. [안드로이드 컨퍼런스]우리 회사는 이렇게 개발해요
 https://event-us.kr/ted/event/8421
 - 일시: 2019.08.04
