@@ -1,6 +1,13 @@
 # 발표
 
-### 16.렛츠git잇
+### 17. 돈도 안되는 GitHub오픈소스, 우리 기업에서 꼭 해야하나요?
+- 2019.10.02
+- [GitHub과 기업내 오픈소스 문화](https://festa.io/events/471)
+- [발표자료](https://docs.google.com/presentation/d/e/2PACX-1vSRrKNosSAr3MDtE4fpomY7HBJp654Lqshaassa3yf-o-Kc3NLG1RmyxuKnjMRG_OhlGzKawohRKPay/pub?start=false&loop=false&delayms=3000)
+
+<img src="../art/presentation/20191002/20191002_144628.jpg" width="280"><img src="../art/presentation/20191002/1570006815777.jpg" width="280"><img src="../art/presentation/20191002/1570008343128.jpg" width="280"><img src="../art/presentation/20191002/1570008345946.jpg" width="280">
+
+### 16. 렛츠git잇
 - 2019.09.07
 - [[개발자 컨퍼런스]슬기로운 개발생활](https://event-us.kr/ted/event/9635)
 - [발표자료](https://docs.google.com/presentation/d/e/2PACX-1vQa3ZjVnu6TmXWdbL9pFeO7xdJS6VPYzisjPdxio-dHVKrkJea--cbr0WWOYYPJiLFItSMBYgbq3H7Q/pub?start=false&loop=false&delayms=3000)
