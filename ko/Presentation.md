@@ -1,4 +1,10 @@
 # 발표
+### 18. 개인앱 수익, Firebase를 만나 최대 2배로 늘었습니다
+- 2019.10.20
+- [GDG DevFest Seoul 2019](https://festa.io/events/559)
+- [발표자료](https://docs.google.com/presentation/d/e/2PACX-1vQNPRWe45hNjWWJDaMeBIQP_LparT_nQ019a-tv8pxTSs44QGSu174UWcAp7rGDMwo56hVdUvKZsAIp/pub?start=false&loop=false&delayms=3000)
+
+<img src="../art/presentation/20191020/DSC0441.jpg" width="280"><img src="../art/presentation/20191020/DSC0450.jpg" width="280">
 
 ### 17. 돈도 안되는 GitHub오픈소스, 우리 기업에서 꼭 해야하나요?
 - 2019.10.02
