@@ -4,28 +4,28 @@
 - [GDG DevFest Seoul 2019](https://festa.io/events/559)
 - [발표자료](https://docs.google.com/presentation/d/e/2PACX-1vQNPRWe45hNjWWJDaMeBIQP_LparT_nQ019a-tv8pxTSs44QGSu174UWcAp7rGDMwo56hVdUvKZsAIp/pub?start=false&loop=false&delayms=3000)
 
-<img src="../art/presentation/20191020/DSC0441.jpg" width="280"><img src="../art/presentation/20191020/DSC0450.jpg" width="280">
+<img src="../art/presentation/20191020/DSC0441.jpg" width="280"> <img src="../art/presentation/20191020/DSC0450.jpg" width="280">
 
 ### 17. 돈도 안되는 GitHub오픈소스, 우리 기업에서 꼭 해야하나요?
 - 2019.10.02
 - [GitHub과 기업내 오픈소스 문화](https://festa.io/events/471)
 - [발표자료](https://docs.google.com/presentation/d/e/2PACX-1vSRrKNosSAr3MDtE4fpomY7HBJp654Lqshaassa3yf-o-Kc3NLG1RmyxuKnjMRG_OhlGzKawohRKPay/pub?start=false&loop=false&delayms=3000)
 
-<img src="../art/presentation/20191002/20191002_144628.jpg" width="280"><img src="../art/presentation/20191002/1570006815777.jpg" width="280"><img src="../art/presentation/20191002/1570008343128.jpg" width="280"><img src="../art/presentation/20191002/1570008345946.jpg" width="280">
+<img src="../art/presentation/20191002/20191002_144628.jpg" width="280"> <img src="../art/presentation/20191002/1570006815777.jpg" width="280"> <img src="../art/presentation/20191002/1570008343128.jpg" width="280"> <img src="../art/presentation/20191002/1570008345946.jpg" width="280">
 
 ### 16. 렛츠git잇
 - 2019.09.07
 - [[개발자 컨퍼런스]슬기로운 개발생활](https://event-us.kr/ted/event/9635)
 - [발표자료](https://docs.google.com/presentation/d/e/2PACX-1vQa3ZjVnu6TmXWdbL9pFeO7xdJS6VPYzisjPdxio-dHVKrkJea--cbr0WWOYYPJiLFItSMBYgbq3H7Q/pub?start=false&loop=false&delayms=3000)
 
-<img src="../art/presentation/20190907/P9070478.JPG" width="280"><img src="../art/presentation/20190907/P9070501.JPG" width="280"><img src="../art/presentation/20190907/P9070502.JPG" width="280"><img src="../art/presentation/20190907/P9070513.JPG" width="280"><img src="../art/presentation/20190907/P9070548.JPG" width="280">
+<img src="../art/presentation/20190907/P9070478.JPG" width="280"> <img src="../art/presentation/20190907/P9070501.JPG" width="280"> <img src="../art/presentation/20190907/P9070502.JPG" width="280"> <img src="../art/presentation/20190907/P9070513.JPG" width="280"> <img src="../art/presentation/20190907/P9070548.JPG" width="280">
 
 ### 15. 헤이딜러에서는 어떻게 일하나요?222
 - 2019.08.04
 - [[안드로이드 컨퍼런스]우리 회사는 이렇게 개발해요](https://event-us.kr/ted/event/8421)
 - [발표자료](https://speakerdeck.com/gun0912/heidilreoeseoneun-eoddeohge-ilhanayo-222-190804-andeuroideu-keonpeoreonseu-uri-hoesaneun-ireohge-gaebalhaeyo)
 
-<img src="../art/presentation/20190804/IMG_4853.JPG" width="280"><img src="../art/presentation/20190804/IMG_4856.JPG" width="280"><img src="../art/presentation/20190804/IMG_4865.JPG" width="280">
+<img src="../art/presentation/20190804/IMG_4853.JPG" width="280"> <img src="../art/presentation/20190804/IMG_4856.JPG" width="280"> <img src="../art/presentation/20190804/IMG_4865.JPG" width="280">
 
 ### 14. Kotlin, 꼭 해야하나요?
 - 2019.04.05
