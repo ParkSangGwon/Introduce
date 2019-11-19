@@ -13,7 +13,7 @@
 - 함께 프로젝트를 진행했던 멤버들의 추천사
 
 ## 발표
-[자세히 보기](/ko/Presentation.md)
+[자세히 보기](/common/Presentation.md)
 - 여러 행사에 발표자로 참여이력
 - 행사 정보, 사진/영상
 
@@ -34,7 +34,7 @@
 <img src="/art/mentor/educom/IMG_20170228_150331_779.jpg" width="280"> <img src="/art/mentor/educom/educom_3.jpg" width="280"> <img src="/art/mentor/educom/educom_1.jpg" width="280">
 
 ## 행사 기획
-[자세히 보기](/ko/Organizer.md)
+[자세히 보기](/common/Organizer.md)
 - 개발자 행사, 마케터 행사 등 여러 행사를 직접 기획하고 참여이력
 - 행사 정보, 사진/영상
 
