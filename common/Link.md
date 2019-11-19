@@ -1,4 +1,4 @@
-# 링크
+# Link
 - Mail: tkdrnjs0912@gmail.com
 - Blog: http://gun0912.tistory.com
 - Facebook: https://www.facebook.com/gun860912

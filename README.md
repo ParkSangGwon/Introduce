@@ -20,7 +20,7 @@
 <img src="/art/presentation/20191020/DSC0450.jpg" width="280"> <img src="/art/presentation/20191002/1570008345946.jpg" width="280"> <img src="/art/presentation/20190907/P9070501.JPG" width="280"> <img src="/art/presentation/20190405/56226038_2155580671190118_2617208527353020416_n.jpg" width="280"> <img src="/art/presentation/20181003/HjScmTgv.jpeg" width="280"> <img src="/art/presentation/20180729/DSC09932.JPG" width="280"> <img src="/art/presentation/20180623/1529734534189.jpg" width="280"> <img src="/art/presentation/20180609/1528522132715.jpg" width="280"> <img src="/art/presentation/20180422/20180422_154850.jpg" width="280"> <img src="/art/presentation/20170923/1506154476527.jpg" width="280"> <img src="/art/presentation/20170812/20170812.png" width="280"> <img src="/art/presentation/20180218/20170218.jpg" width="280">
 
 ## 깃헙
-[자세히 보기](/ko/GitHub.md)
+[자세히 보기](/common/GitHub.md)
 - GitHub 주소
 - GitHub Star 순위
 - 배포한 오픈소스 소개
@@ -48,5 +48,5 @@
 <img src="/art/prize/201603/201603.jpg" width="280"> <img src="/art/prize/201511/201511.jpg" width="280"> <img src="/art/prize/201508/201508.jpg" width="280"> <img src="/art/prize/201503/FB_IMG_1438868043923.jpg" width="280"> <img src="/art/prize/201411/20141120_182006.jpg" width="280">
 
 ## 링크
-[자세히 보기](/ko/Link.md)
+[자세히 보기](/common/Link.md)
 - 블로그, 페이스북 등 각종 SNS 주소
