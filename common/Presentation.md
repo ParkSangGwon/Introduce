@@ -2,7 +2,6 @@
 ### 18. 개인앱 수익, Firebase를 만나 최대 2배로 늘었습니다
 - 2019.10.20
 - [GDG DevFest Seoul 2019](https://festa.io/events/559)
-- [발표자료](https://docs.google.com/presentation/d/e/2PACX-1vQNPRWe45hNjWWJDaMeBIQP_LparT_nQ019a-tv8pxTSs44QGSu174UWcAp7rGDMwo56hVdUvKZsAIp/pub?start=false&loop=false&delayms=3000)
 
 <img src="../art/presentation/20191020/DSC0441.jpg" width="280"> <img src="../art/presentation/20191020/DSC0450.jpg" width="280">
 
@@ -45,7 +44,6 @@
 ### 12. 모바일 마케팅과 Firebase가 만났을때
 - 2018.10.03
 - [[마케팅 컨퍼런스]우리는 마케터입니다](https://event-us.kr/ted/event/3037)
-- [발표자료](https://docs.google.com/presentation/d/e/2PACX-1vSzAS3r7js0Ve95PXH988JRazsdAY6SaXFSUU9U9JvB5rHpTAiaDAxQfpj_ojl8IjQKDNy8SQZ4pGbA/pub?start=false&loop=false&delayms=3000)
 
 <img src="../art/presentation/20181003/HjScmTgv.jpeg" width="280"> <img src="../art/presentation/20181003/Mwokz3Dn.jpeg" width="280"> <img src="../art/presentation/20181003/NwysZy9h.jpeg" width="280"> <img src="../art/presentation/20181003/c-8hkfHj.jpeg" width="280"> <img src="../art/presentation/20181003/lExxKJnq.jpeg" width="280">
 
