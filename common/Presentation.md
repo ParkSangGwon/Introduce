@@ -4,7 +4,7 @@
 - 2020.11.14
 - [DevRel Asia 2020](https://devrel.dev/asia-2020/)
 
-<img src="../art/presentation/20201114/devrel_asia.jpg" width="400"> 
+<img src="../art/presentation/20201114/devrel_asia.jpg" width="5600"> 
 
 ### 18. 개인앱 수익, Firebase를 만나 최대 2배로 늘었습니다
 - 2019.10.20
