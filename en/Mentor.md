@@ -8,7 +8,7 @@ Android part Mentor
 - 2021.01.16
 - [Introduce SOPT](https://sopt-demoday.oopy.io/)
 
-<img src="../art/mentor/sopt/screenshot_sopt.jpg" width="400">
+<img src="../art/mentor/sopt/screenshot_sopt.png" >
 
 
 ## BoostCamp
