@@ -1,4 +1,15 @@
 # Mentor
+## SOPT 2021
+```
+SOPT is the "Korea's largest college student alliance IT venture startup club".
+About 200 members, consisting of planning/design/web frontend/Android/iOS/server parts, are doing various activities such as seminars, studies, hackathons, and side projects.
+```
+Android part Mentor
+- 2021.01.16
+- [Introduce SOPT](https://sopt-demoday.oopy.io/)
+
+<img src="../art/mentor/sopt/screenshot_sopt.jpg" width="400">
+
 
 ## BoostCamp
 ```
