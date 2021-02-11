@@ -9,7 +9,7 @@ SOPT는 "국내 최대 규모의 대학생 연합 IT 벤처 창업 동아리"입
 - 2021.01.16
 - [프로그램 소개](https://sopt-demoday.oopy.io/)
 
-<img src="../art/mentor/sopt/screenshot_sopt.jpg" width="400">
+<img src="../art/mentor/sopt/screenshot_sopt.png" >
 
 
 ## 부스트캠프
