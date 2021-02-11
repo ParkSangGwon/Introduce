@@ -1,5 +1,12 @@
 # 행사 기획
 
+### 12. DroidKnights 2020
+https://droidknights.github.io/2020/
+https://www.wanted.co.kr/events/droidknights2020
+- [행사영상](https://www.youtube.com/c/DroidKnights/videos)
+- 일시: 2020.09.05
+- 장소: 온라인 스트리밍
+
 
 ### 11. [개발자 컨퍼런스]슬기로운 개발생활
 https://event-us.kr/ted/event/9635
