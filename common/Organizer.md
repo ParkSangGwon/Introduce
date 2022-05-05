@@ -1,4 +1,10 @@
 # 행사 기획
+### 13. DroidKnights 2021
+https://sites.google.com/view/dk21/
+- 일시: 2021.09.25
+- 장소: 온라인 스트리밍
+
+<img src="../art/organizer/20210925/all.png" width="280"><img src="../art/organizer/20210925/session.png" width="280"><img src="../art/organizer/20210925/sponsor.png" width="280">
 
 ### 12. DroidKnights 2020
 https://droidknights.github.io/2020/
