@@ -1,5 +1,11 @@
 # 발표
 
+### 20. 헤이딜러 안드로이드팀은 어떻게 일하나요?(3) — 프로젝트 구조
+- 2022.05.14
+- [[안드로이드 컨퍼런스] 코로나시대의 안드로이드 개발자들](https://event-us.kr/ted/event/43225)
+
+<img src="../art/presentation/20220514/001.jpeg" width="280"><img src="../art/presentation/20220514/002.jpeg" width="280">
+
 ### 19. 개발자의 퍼스널 브랜딩
 - 2020.11.14
 - [DevRel Asia 2020](https://devrel.dev/asia-2020/)
