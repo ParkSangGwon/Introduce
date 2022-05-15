@@ -1,4 +1,13 @@
 # 행사 기획
+### 14. [안드로이드 컨퍼런스] 코로나시대의 안드로이드 개발자들
+https://event-us.kr/ted/event/43225
+- 일시: 2022.05.14
+- 장소: 마루180
+- 참가인원: 150명
+
+<img src="../art/organizer/20220514/001.jpeg" width="280"><img src="../art/organizer/20220514/007.jpeg" width="280"><img src="../art/organizer/20220514/005.jpeg" width="280"><img src="../art/organizer/20220514/008.jpeg" width="280"><img src="../art/organizer/20220514/002.jpeg" width="280"><img src="../art/organizer/20220514/006.jpeg" width="280"><img src="../art/organizer/20220514/004.jpeg" width="280"><img src="../art/organizer/20220514/009.jpeg" width="280">
+
+
 ### 13. DroidKnights 2021
 https://sites.google.com/view/dk21/
 - 일시: 2021.09.25
