@@ -17,7 +17,8 @@
 - 여러 행사에 발표자로 참여이력
 - 행사 정보, 사진/영상
 
-<img src="/art/presentation/20191020/DSC0450.jpg" width="280"> <img src="/art/presentation/20191002/1570008345946.jpg" width="280"> <img src="/art/presentation/20190907/P9070501.JPG" width="280"> <img src="/art/presentation/20190405/56226038_2155580671190118_2617208527353020416_n.jpg" width="280"> <img src="/art/presentation/20181003/HjScmTgv.jpeg" width="280"> <img src="/art/presentation/20180729/DSC09932.JPG" width="280"> <img src="/art/presentation/20180623/1529734534189.jpg" width="280"> <img src="/art/presentation/20180609/1528522132715.jpg" width="280"> <img src="/art/presentation/20180422/20180422_154850.jpg" width="280"> <img src="/art/presentation/20170923/1506154476527.jpg" width="280"> <img src="/art/presentation/20170812/20170812.png" width="280"> <img src="/art/presentation/20180218/20170218.jpg" width="280">
+
+<img src="../art/presentation/20220514/002.jpeg" width="280"><img src="../art/presentation/20201114/devrel_asia.jpg" width="280"> <img src="/art/presentation/20191020/DSC0450.jpg" width="280"> <img src="/art/presentation/20191002/1570008345946.jpg" width="280"> <img src="/art/presentation/20190907/P9070501.JPG" width="280"> <img src="/art/presentation/20190405/56226038_2155580671190118_2617208527353020416_n.jpg" width="280"> <img src="/art/presentation/20181003/HjScmTgv.jpeg" width="280"> <img src="/art/presentation/20180729/DSC09932.JPG" width="280"> <img src="/art/presentation/20180623/1529734534189.jpg" width="280"> <img src="/art/presentation/20180609/1528522132715.jpg" width="280"> <img src="/art/presentation/20180422/20180422_154850.jpg" width="280"> <img src="/art/presentation/20170923/1506154476527.jpg" width="280"> <img src="/art/presentation/20170812/20170812.png" width="280"> <img src="/art/presentation/20180218/20170218.jpg" width="280">
 
 ## 깃헙
 [자세히 보기](/common/GitHub.md)
