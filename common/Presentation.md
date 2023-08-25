@@ -1,5 +1,12 @@
 # 발표
 
+### 21. 일 잘하는 개발자는 회사에서 어떻게 일할까?
+- 2023.07.29
+- [Google I/O Extended 2023 Seoul](https://festa.io/events/3683)
+
+<img src="../art/presentation/20230729/001.jpg" width="280">
+<img src="../art/presentation/20230729/002.jpg" width="280">
+
 ### 20. 헤이딜러 안드로이드팀은 어떻게 일하나요?(3) — 프로젝트 구조
 - 2022.05.14
 - [[안드로이드 컨퍼런스] 코로나시대의 안드로이드 개발자들](https://event-us.kr/ted/event/43225)
