@@ -4,8 +4,7 @@
 - 2023.07.29
 - [Google I/O Extended 2023 Seoul](https://festa.io/events/3683)
 
-<img src="../art/presentation/20230729/001.jpg" width="280">
-<img src="../art/presentation/20230729/002.jpg" width="280">
+<img src="../art/presentation/20230729/001.jpg" width="280"> <img src="../art/presentation/20230729/002.jpg" width="280">
 
 ### 20. 헤이딜러 안드로이드팀은 어떻게 일하나요?(3) — 프로젝트 구조
 - 2022.05.14
