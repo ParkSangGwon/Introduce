@@ -1,4 +1,20 @@
 # 행사 기획
+### 16. DroidKnights 2023
+https://festa.io/events/3635
+- 일시: 2022.09.12
+- 장소: 코엑스 컨퍼런스 E룸
+- 참가인원: 700명
+
+<img src="../art/organizer/20230912/001.jpg" width="280"><img src="../art/organizer/20230912/002.jpg" width="280"><img src="../art/organizer/20230912/003.jpg" width="280"><img src="../art/organizer/20230912/004.jpg" width="280"><img src="../art/organizer/20230912/005.jpg" width="280">
+
+### 15. [개발자 컨퍼런스] 주니어 개발자? Super 주니어 개발자!
+https://event-us.kr/ted/event/45142
+- 일시: 2022.07.30
+- 장소: 마루180
+- 참가인원: 150명
+
+<img src="../art/organizer/20220730/001.jpg" width="280"><img src="../art/organizer/20220730/002.jpg" width="280">
+
 ### 14. [안드로이드 컨퍼런스] 코로나시대의 안드로이드 개발자들
 https://event-us.kr/ted/event/43225
 - 일시: 2022.05.14

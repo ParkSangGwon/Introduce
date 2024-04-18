@@ -1,4 +1,21 @@
 # 발표
+### 24. 코딩을 잘하는 사람은 무엇이 다를까?
+- 2023.11.04
+- [인천교육청 미래채움 페스티벌](http://www.iswfesta2023.kr/)
+
+<img src="../art/presentation/20231104/001.jpg" width="280"><img src="../art/presentation/20231104/002.jpg" width="280">
+
+### 23. 헤이딜러의 UX스터디 이야기
+- 2023.09.12
+- [드로이드나이츠 2023](https://festa.io/events/3635)
+
+<img src="../art/presentation/20230912/001.jpg" width="280"><img src="../art/presentation/20230912/002.jpg" width="280">
+
+
+### 22. 나는 어떤 회사에서 일해야 할까?
+- 2023.09.09
+- [NE(O)RDINARY DemoDAY](https://event-us.kr/neordinary/event/68943)
+<img src="../art/presentation/20230909/001.png" width="280">
 
 ### 21. 일 잘하는 개발자는 회사에서 어떻게 일할까?
 - 2023.07.29
