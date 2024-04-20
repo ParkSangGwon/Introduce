@@ -1,7 +1,15 @@
 # 행사 기획
+### 17. [안드로이드 컨퍼런스] Native vs Flutter 그리고 KMP
+https://event-us.kr/ted/event/79581
+- 일시: 2024.04.06
+- 장소: 마루180
+- 참가인원: 150명
+
+<img src="../art/organizer/20240406/001.jpg" width="280">
+
 ### 16. DroidKnights 2023
 https://festa.io/events/3635
-- 일시: 2022.09.12
+- 일시: 2023.09.12
 - 장소: 코엑스 컨퍼런스 E룸
 - 참가인원: 700명
 

@@ -1,4 +1,16 @@
 # 발표
+### 26. 튜닝의 끝은 결국 순정
+- 2024.04.06
+- [[안드로이드 컨퍼런스] Native vs Flutter 그리고 KMP](https://event-us.kr/ted/event/79581)
+
+<img src="../art/presentation/20240406/001.jpg" width="280">
+
+### 25. 헤이딜러는 이렇게 일해요
+- 2024.03.30
+- [렛어스고 Spring 2024](https://letusgo2024-spring.vercel.app/)
+
+<img src="../art/presentation/20240330/001.jpg" width="280">
+
 ### 24. 코딩을 잘하는 사람은 무엇이 다를까?
 - 2023.11.04
 - [인천교육청 미래채움 페스티벌](http://www.iswfesta2023.kr/)
