@@ -19,6 +19,7 @@ https://event-us.kr/ted/event/79581
 
 ### 16. DroidKnights 2023
 https://festa.io/events/3635
+https://www.youtube.com/watch?v=YK9t22I3UOQ
 - 일시: 2023.09.12
 - 장소: 코엑스 컨퍼런스 E룸
 - 참가인원: 700명
