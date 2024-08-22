@@ -1,4 +1,14 @@
 # 행사 기획
+### 18. DroidKnights 2024
+https://festa.io/events/4990
+https://www.youtube.com/watch?v=xsAI6jvI3xk
+- 일시: 2024.06.11
+- 장소: 코엑스 컨퍼런스 E룸
+- 참가인원: 750명
+
+<img src="../art/organizer/20240611/001.jpg" width="280"><img src="../art/organizer/20240611/002.jpg" width="280"><img src="../art/organizer/20240611/003.jpg" width="280"><img src="../art/organizer/20240611/004.jpg" width="280"><img src="../art/organizer/20240611/005.jpeg" width="280">
+
+
 ### 17. [안드로이드 컨퍼런스] Native vs Flutter 그리고 KMP
 https://event-us.kr/ted/event/79581
 - 일시: 2024.04.06
