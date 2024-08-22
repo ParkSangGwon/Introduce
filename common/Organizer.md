@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=xsAI6jvI3xk
 - 장소: 코엑스 컨퍼런스 E룸
 - 참가인원: 750명
 
-<img src="../art/organizer/20240611/001.jpg" width="280"><img src="../art/organizer/20240611/002.jpg" width="280"><img src="../art/organizer/20240611/003.jpg" width="280"><img src="../art/organizer/20240611/004.jpg" width="280"><img src="../art/organizer/20240611/005.jpeg" width="280">
+<img src="../art/organizer/20240611/001.jpg" width="280"><img src="../art/organizer/20240611/002.jpg" width="280"><img src="../art/organizer/20240611/004.jpg" width="280"><img src="../art/organizer/20240611/003.jpg" width="280"><img src="../art/organizer/20240611/005.jpeg" width="280">
 
 
 ### 17. [안드로이드 컨퍼런스] Native vs Flutter 그리고 KMP
