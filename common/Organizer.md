@@ -1,4 +1,17 @@
 # 행사 기획
+### 20. DroidKnights 2025
+https://www.ticketa.co/events/1
+https://www.droidknights.dev/
+- 일시: 2025.06.17
+- 장소: 과학기술컨벤션센터
+- 참가인원: 500명
+
+### 19. [안드로이드 컨퍼런스] 취업 뽀개기
+https://event-us.kr/ted/event/90879
+- 일시: 2024.10.19
+- 장소: 마루180
+- 참가인원: 150명
+  
 ### 18. DroidKnights 2024
 https://festa.io/events/4990
 https://www.youtube.com/watch?v=xsAI6jvI3xk
