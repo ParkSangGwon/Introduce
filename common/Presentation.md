@@ -1,4 +1,16 @@
 # 발표
+### 29. 일단 유명해져라
+- 2025.11.01
+- [K DEVCON](https://www.ticketa.co/events/33)
+
+### 28. 당신의 클린아키텍처는 틀렸다
+- 2025.06.17
+- [DroidKnights 2025](https://www.ticketa.co/events/1)
+
+### 27. 합격을 부르는 면접 꿀팁들
+- 2024.10.19
+- [[안드로이드 컨퍼런스] 취업 뽀개기](https://event-us.kr/ted/event/90879)
+
 ### 26. 튜닝의 끝은 결국 순정
 - 2024.04.06
 - [[안드로이드 컨퍼런스] Native vs Flutter 그리고 KMP](https://event-us.kr/ted/event/79581)
